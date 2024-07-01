@@ -1,4 +1,4 @@
-#### Netflix Homepage Clone
+# Netflix Homepage Clone
   This project is a front-end clone of the Netflix homepage, created to practice and demonstrate proficiency in web development. The clone replicates the layout, styling, and basic interactivity     of the original Netflix homepage.
 
 # Overview
